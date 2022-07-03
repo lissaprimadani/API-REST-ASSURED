@@ -1,0 +1,14 @@
+<suite name="UsersSuite">
+    <test name="UsersTest">
+        <classes>
+            <class name="TestUser.ListUsersTest"/>
+            <class name="TestUser.TestSingleUsers"/>
+            <class name="TestUser.CreateUsers"/>
+            <class name="TestUser.UpdateUser"/>
+            <class name="AUTH.LoginSuccess"/>
+            <class name="AUTH.LoginUnsuccess"/>
+            <class name="Register.RegisterSuccess"/>
+            <class name="Register.RegisterUnsuccess"/>
+        </classes>
+    </test>
+</suite>
